@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	apiserver "github.com/qxmips/cmd/argocd-server/commands"
+	apiserver "github.com/qxmips/argo-clone/cmd/argocd-server/commands"
 	"github.com/spf13/cobra"
 	_ "go.uber.org/automaxprocs"
 )
